@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naga Manikanta
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently Working on my Skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... manikantaa2003@gmail.com
